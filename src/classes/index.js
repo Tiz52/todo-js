@@ -4,5 +4,5 @@ import { TodoList} from './todo-list.class.js';
 export
 {
     Todo,
-    TodoList
+    TodoList,
 }
